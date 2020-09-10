@@ -12,7 +12,11 @@ description: Switch
 
 Cherry 公司于1980年代初期研发并且大约在1985年推出了 Cherry MX 机械轴，并申请了专利。2014年，Cherry 轴专利保护期到期，市场中出现了很多国内 Cherry MX 轴厂商。这些轴体在保持物美价廉的同时，还对轴体的性能进行了优化，间接促进了客制化市场的发展。
 
+除去 Cherry 公司自己外，还有一些常见的轴厂，如：凯华 Kailh、佳达隆 Gateron、精微科 JWK、正牌科电 TTC 等。
+
 ### Topre 静电容
+
+[https://deskthority.net/wiki/Topre\_switch](https://deskthority.net/wiki/Topre_switch)
 
 ### Alps
 
