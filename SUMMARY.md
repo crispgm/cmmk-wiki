@@ -19,12 +19,13 @@
   * [键帽](getting-start/composition/keycap/README.md)
     * [个性键帽](getting-start/composition/keycap/artisan-keycap.md)
   * [周边配件](getting-start/composition/accessories.md)
+* [键盘作者](getting-start/maker.md)
+* [购买和交易](getting-start/market/README.md)
+  * [零售商](getting-start/market/reseller.md)
 * [客制化键盘组装](getting-start/assemble/README.md)
   * [工具准备](getting-start/assemble/prepare.md)
   * [焊接](getting-start/assemble/assemble-solder.md)
   * [更改配列/键位](getting-start/assemble/assemble-layout.md)
-* [购买和交易](getting-start/market/README.md)
-  * [零售商](getting-start/market/reseller.md)
 * [工具软件/网站](getting-start/related-apps.md)
 
 ## 进阶资料 <a id="advanced"></a>
