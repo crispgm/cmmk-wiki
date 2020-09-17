@@ -5,8 +5,7 @@
 
 ## 入门资料 <a id="getting-start"></a>
 
-* [客制化机械键盘是什么](getting-start/what-is-cmmk/README.md)
-  * [量产vs客制化](getting-start/what-is-cmmk/comparison.md)
+* [客制化机械键盘是什么](getting-start/what-is-cmmk.md)
 * [客制化键盘基础](getting-start/composition/README.md)
   * [配列](getting-start/composition/layout/README.md)
     * [普朗克/Ortho](getting-start/composition/layout/pu-lang-ke-ortho.md)
