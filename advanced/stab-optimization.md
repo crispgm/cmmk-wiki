@@ -11,3 +11,7 @@
 * 钢丝底部：Krytox GPL205
 * 钢丝接触点：Permatex 22058
 
+## 参考链接
+
+[https://www.maketecheasier.com/how-to-lubricate-mod-stabilizers/](https://www.maketecheasier.com/how-to-lubricate-mod-stabilizers/)
+
