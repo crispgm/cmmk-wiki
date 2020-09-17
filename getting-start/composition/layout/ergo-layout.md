@@ -12,5 +12,5 @@ description: Ergonomic Keyboard
 
 近年来，随着经典的60% Ergo 键盘 TGR Alice 的出现，带有人体工学设计的键盘开始风靡客制化圈。TGR Alice 的字母向内部倾斜，符合人体手部姿势，但适应成本又相对较低。
 
-![\(c\) TGR Alice IC, https://geekhack.org/index.php?topic=95054.0](../../../.gitbook/assets/image%20%2823%29.png)
+![\(c\) TGR Alice IC, https://geekhack.org/index.php?topic=95054.0](../../../.gitbook/assets/image%20%2824%29.png)
 
