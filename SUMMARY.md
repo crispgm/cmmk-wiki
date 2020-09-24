@@ -12,7 +12,7 @@
     * [人体工学键盘](getting-start/composition/layout/ergo-layout.md)
     * [分体键盘](getting-start/composition/layout/split-layout.md)
   * [套件](getting-start/composition/kit.md)
-  * [固件](getting-start/composition/firmware.md)
+  * [固件/改键位](getting-start/composition/firmware.md)
   * [轴体](getting-start/composition/switch.md)
   * [卫星轴](getting-start/composition/stabilizer.md)
   * [键帽](getting-start/composition/keycap/README.md)
