@@ -32,3 +32,14 @@ description: Keycap
 
 #### JTK
 
+## 信息汇总
+
+团购信息：
+
+* [https://keycaplendar.firebaseapp.com/](https://keycaplendar.firebaseapp.com/) 英文
+* [https://hackmd.io/\_Ks8KFJNRNKSl0JvBExaEg](https://hackmd.io/_Ks8KFJNRNKSl0JvBExaEg) 繁体中文
+
+综合信息：
+
+* [https://matrixzj.github.io/](https://matrixzj.github.io/) 中英双语
+
