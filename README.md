@@ -1,3 +1,7 @@
+---
+description: Home
+---
+
 # 客制化机械键盘知识库
 
 ## 为什么要有这个知识库？
@@ -20,5 +24,5 @@
 
 本知识库版权归 David Zhang 所有。通过 [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/) 协议发布。
 
-Powered by GitBook.io
+Powered by GitBook
 

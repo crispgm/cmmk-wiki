@@ -1,6 +1,7 @@
 # Table of contents
 
 * [客制化机械键盘知识库](README.md)
+* [感谢](gan-xie.md)
 * [Changelog](changelog.md)
 
 ## 入门资料 <a id="getting-start"></a>
