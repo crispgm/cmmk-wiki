@@ -29,8 +29,9 @@
 
 ## 进阶资料 <a id="advanced"></a>
 
-* [润轴](advanced/lube.md)
-* [卫星轴调教](advanced/stab-optimization.md)
+* [轴体优化](advanced/switch-optimization/README.md)
+  * [润轴](advanced/switch-optimization/lube.md)
+* [卫星轴调校](advanced/stab-optimization.md)
 * [结构](advanced/structure.md)
 * [声音和手感](advanced/sound-and-feel.md)
 * [PCB 和固件](advanced/pcb.md)
