@@ -1,5 +1,5 @@
 ---
-description: Reseller
+description: Resellers
 ---
 
 # 零售商
