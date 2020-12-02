@@ -25,7 +25,9 @@ description: Lube
 
 理论上，润轴适用的润滑油很多。但一般来说，客制化键盘会选择使用杜邦 Krytox 系列或者 Tribosys。
 
-杜邦 Krytox 最常用的型号：
+Krytox 和 Tribosys 都属于**全氟聚醚**\(**PFPE**\)，具有不易燃、不腐蚀金属或塑料等特性，广泛用于航空、汽车、工业和半导体等领域。
+
+[杜邦 Krytox GPL](https://www.krytox.com/en/products/general-purpose-lubricants) 最常用的型号：
 
 * Krytox GPL205
 * Krytox GPL105
@@ -35,9 +37,13 @@ description: Lube
 Tribosys 常用型号：
 
 * Tribosys 3203
-* Tribosys 3204
+* [Tribosys 3204](https://miller-stephenson.com/product/tribosys-3204/)
 
-其中，标准 GPL205 相当于 GPL205g2，而 GPL205g0 是半流体润滑脂。两者并不相同。GPL205 和 GPL105 混合也是常见的一种操作，起到类似 GPL205g0 的效果，但实际两者形态不太一样。GPL205g0看起来像雪花膏，而 GPL205/105 混合则有比较明显的沉淀感。如果自己调制 GPL205/105，需要注意控制调制时比例，防止因为不同批次的调制比例不同造成手感不一致的问题。
+GPL105属于润滑油，其它属于润滑脂。
+
+标准 GPL205 相当于 GPL205g2，而 GPL205g0 是半流体润滑脂。两者并不相同。GPL205 和 GPL105 混合也是常见的一种操作，起到类似 GPL205g0 的效果，但实际两者形态不太一样。GPL205g0看起来像雪花膏，而 GPL205/105 混合则有比较明显的沉淀感。如果自己调制 GPL205/105，需要注意控制调制时比例，防止因为不同批次的调制比例不同造成手感不一致的问题。
+
+Tribosys 3204和3203是为键盘社区专门设计的润滑脂，具有更加稳定和不移动的特性，效果上3204等效于 GPL104、3203等效于GPL 103。
 
 杜邦在淘宝可以买到，单价较贵。建议购买分装，一次购入20g-50g，非常耐用，价格也比较能承受，一次购买就足以润几百颗轴。Tribosys 目前都需要海淘，建议关注鱼头哥小推车等渠道。
 
