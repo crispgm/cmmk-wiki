@@ -25,8 +25,6 @@ description: Influencers
 
 ## 国内
 
-* Jinnnxu
-  * [Bilibili](https://space.bilibili.com/96079043)
 * 海边的曼彻斯特
   * [Bilibili](https://space.bilibili.com/8973571)
 
